@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trending_options">
+        <item>day</item>
+        <item>week</item>
+    </string-array>
+    <string-array name="sort_options">
+        <item>"Sort By"</item>
+        <item>"By Title (A-Z)"</item>
+        <item>"Release Date Ascending"</item>
+        <item>"Release Date Descending"</item>
+        <item>"Popularity Ascending"</item>
+        <item>"Popularity Descending"</item>
+        <item>"Rating Ascending"</item>
+        <item>"Rating Descending"</item>
+    </string-array>
+</resources>
